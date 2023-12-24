@@ -29,28 +29,28 @@ Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+
 </details>
 
 
-  <!-- Connect with me -->
-  <!--h2 without bottom border-->
-  <h3 style="display: inline-block">🤝 Connect With Me </h3>
-  <br/>
-  <div style="text-align:center;">
-      <a href="https://orcid.org/0000-0001-9295-9283">
-          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678227263/ORCID_iD.svg_cb2dwu.png" width="50"/>
-      </a>
-      <a href="https://scholar.google.com/citations?user=31FZ_ZwAAAAJ&hl=en">
-          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678226911/google_scholar_icon_130918_uxqphy.png" width="50"/>
-      </a>
-      <a href="https://www.linkedin.com/in/am1rsafavi/">
-          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678226912/174857_rwljoo.png" width="50"/>
-      </a>
-      <a href="https://amirsafavi.com/">
-          <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" width="50"/>
-      </a>
+
+🤝 Connect With Me </h3>
+<P align="center">
+	<a href="https://orcid.org/0000-0001-9295-9283">
+	  <img src="https://img.shields.io/badge/ORCID-0000--0001--9295--9283-green?logo=orcid" height="20"/>
+	</a>
+	<a href="https://scholar.google.com/citations?user=31FZ_ZwAAAAJ&hl=en">
+	  <img src="https://img.shields.io/badge/Google%20Scholar-My%20Publication-lightblue?logo=googlescholar" height="20"/>
+	</a>
+	<a href="https://www.linkedin.com/in/am1rsafavi/">
+	  <img src="https://img.shields.io/badge/LinkedIn-My%20network-blue?logo=linkedin" height="20"/>
+	</a>
+	<a href="https://amirsafavi.com/">
+	  <img src="https://img.shields.io/badge/Website-amirsafavi.com-red" height="20"/>
+	</a>
+</P>
+
   </div>
 
-
-
 </div>
+
