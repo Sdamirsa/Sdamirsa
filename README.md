@@ -36,16 +36,16 @@ Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <h3 style="display: inline-block">🤝 Connect With Me </h3>
 <P align="center">
 	<a href="https://orcid.org/0000-0001-9295-9283">
-	  <img src="https://img.shields.io/badge/ORCID-0000--0001--9295--9283-green?logo=orcid" height="25"/>
+	  <img src="https://img.shields.io/badge/ORCID-0000--0001--9295--9283-green?logo=orcid" height="20"/>
 	</a>
 	<a href="https://scholar.google.com/citations?user=31FZ_ZwAAAAJ&hl=en">
-	  <img src="https://img.shields.io/badge/Google%20Scholar-My%20Publication-lightblue?logo=googlescholar" height="25"/>
+	  <img src="https://img.shields.io/badge/Google%20Scholar-My%20Publication-lightblue?logo=googlescholar" height="20"/>
 	</a>
 	<a href="https://www.linkedin.com/in/am1rsafavi/">
-	  <img src="https://img.shields.io/badge/LinkedIn-My%20network-blue?logo=linkedin" height="25"/>
+	  <img src="https://img.shields.io/badge/LinkedIn-My%20network-blue?logo=linkedin" height="20"/>
 	</a>
 	<a href="https://amirsafavi.com/">
-	  <img src="https://img.shields.io/badge/Website-amirsafavi.com-red" height="25"/>
+	  <img src="https://img.shields.io/badge/Website-amirsafavi.com-red" height="20"/>
 	</a>
 </P>
 
