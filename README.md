@@ -25,6 +25,7 @@ Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Amir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sdamirsa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdamirsa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sdamirsa" height="192px"/>
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
