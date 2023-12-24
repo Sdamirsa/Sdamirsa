@@ -1,18 +1,10 @@
 <div align="center">
+	
+Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> This is Amir (Seyed Amir Ahmad Safavi-Naini, 👯 I would challenge you for the longest name ever), and I am doing my postdoc on developing ✨ AI/ML/DL/NN (or any other fancy abbreviation) solutions in gastroenterology practice at Research Institute for Gastroenterology and Liver Diseases. I coded in Python and R to do some whimsy works and finally get them published somewhere (isn't that the ultimate goal of a researcher?). I believe in open science, and I will not bury my data with me, I promise. I am interested in developing and deploying cross-modality models in clinicians' daily practice.
   <a href="https://amirsafavi.com/">
     <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1680359671/Untitled_2240_600_px_mkzflm.png" width="70%">
   </a>
-  
-Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> This is Amir (Seyed Amir Ahmad Safavi-Naini, 👯 I would challenge you for the longest name ever), and I am doing my postdoc on developing ✨ AI/ML/DL/NN (or any other fancy abbreviation) solutions in gastroenterology practice at Research Institute for Gastroenterology and Liver Diseases. I coded in Python and R to do some whimsy works and finally get them published somewhere (isn't that the ultimate goal of a researcher?). I believe in open science, and I will not bury my data with me, I promise. I am interested in developing and deploying cross-modality models in clinicians' daily practice.
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My Coding Experinces</h2></summary>
-  </ul>
-</div>
-
+### My Coding Experiences
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=py,r,pytorch,docker,vscode,bash,github,wordpress,regex,html,ai,ps,git " />
