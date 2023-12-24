@@ -3,7 +3,7 @@
     <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1680359671/Untitled_2240_600_px_mkzflm.png" width="70%">
   </a>
   
-Hi there 👋 This is Amir (Seyed Amir Ahmad Safavi-Naini, 👯 I would challenge you for the longest name ever), and I am doing my postdoc on developing ✨ AI/ML/DL/NN (or any other fancy abbreviation) solutions in gastroenterology practice at Research Institute for Gastroenterology and Liver Diseases. I coded in Python and R to do some whimsy works and finally get them published somewhere (isn't that the ultimate goal of a researcher?). I believe in open science, and I will not bury my data with me, I promise. I am interested in developing and deploying cross-modality models in clinicians' daily practice.
+Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> This is Amir (Seyed Amir Ahmad Safavi-Naini, 👯 I would challenge you for the longest name ever), and I am doing my postdoc on developing ✨ AI/ML/DL/NN (or any other fancy abbreviation) solutions in gastroenterology practice at Research Institute for Gastroenterology and Liver Diseases. I coded in Python and R to do some whimsy works and finally get them published somewhere (isn't that the ultimate goal of a researcher?). I believe in open science, and I will not bury my data with me, I promise. I am interested in developing and deploying cross-modality models in clinicians' daily practice.
 
 
 <!--h1 without bottom border-->
@@ -15,15 +15,14 @@ Hi there 👋 This is Amir (Seyed Amir Ahmad Safavi-Naini, 👯 I would challeng
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=py,r,pytorch,docker,vscode,bash,github,wordpress,regex,html,ai,ps,git &perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,r,pytorch,docker,vscode,bash,github,wordpress,regex,html,ai,ps,git " />
+     <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1703433744/DICOM_lqcblx.png" height="50"/>
+    <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1703433744/xnat-17-brand-logo-980_tdlnhv.png" height="50"/>
+    <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1703433744/1_44fD_VXcqw2kDWublQLONw_qeivhc.jpg" height="50"/>
   </a>
 </p>
 <div style="text-align:center;">
-    <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1703433744/DICOM_lqcblx.png" height="50"/>
-    <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1703433744/xnat-17-brand-logo-980_tdlnhv.png" height="50"/>
-    <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1703433743/icon_large_efvx2o.webp" height="50"/>
-    <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1703433744/1_44fD_VXcqw2kDWublQLONw_qeivhc.jpg" height="50"/>
-    <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1703433743/download_rnszg7.png" height="50"/>
+
 </div>
 
 
@@ -47,16 +46,16 @@ Hi there 👋 This is Amir (Seyed Amir Ahmad Safavi-Naini, 👯 I would challeng
   <br/>
   <div style="text-align:center;">
       <a href="https://orcid.org/0000-0001-9295-9283">
-          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678227263/ORCID_iD.svg_cb2dwu.png" width="55"/>
+          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678227263/ORCID_iD.svg_cb2dwu.png" width="50"/>
       </a>
       <a href="https://scholar.google.com/citations?user=31FZ_ZwAAAAJ&hl=en">
-          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678226911/google_scholar_icon_130918_uxqphy.png" width="55"/>
+          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678226911/google_scholar_icon_130918_uxqphy.png" width="50"/>
       </a>
       <a href="https://www.linkedin.com/in/am1rsafavi/">
-          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678226912/174857_rwljoo.png" width="55"/>
+          <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1678226912/174857_rwljoo.png" width="50"/>
       </a>
       <a href="https://amirsafavi.com/">
-          <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" width="55"/>
+          <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" width="50"/>
       </a>
   </div>
 
